@@ -1,1 +1,1 @@
-Image folder for website.
+Image folder for webpage.
